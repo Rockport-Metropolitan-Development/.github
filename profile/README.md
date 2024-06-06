@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Rockport Metropolitan universe © 2017 by GamerzXsakuzboy99 is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 <!--
 
 **Here are some ideas to get you started:**
