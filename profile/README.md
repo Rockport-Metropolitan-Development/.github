@@ -13,6 +13,8 @@ MEU Is allowed to post any of these projects from RMDT to MEU as "In-house mods"
 - You aren't allowed edit any of RMDT maps and release them as your own.
 - You are allowed to decompile map and practice making maps /or check how certain thing was made.
 - You aren't allowed to decompile maps to edit map to different looking and under new name.
+- Doing a "Traslastion content" for the maps is allowed, Let @GamerzXsakuzboy99 known before you release your work.
+   - good example is "Russian Content for Ruralline" by Alexell & Agent Smith
 ### Creating Rockport metropolitan to other games
 - You aren't allowed to create RMDT to other games without written permission from main developer.
              § Personal / private maps are allowed.
