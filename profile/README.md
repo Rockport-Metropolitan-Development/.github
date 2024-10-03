@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 # RMDT Copyright
- Rockport Metropolitan universe © 2017 by GamerzXsakuzboy99 is licensed under Creative Commons Attribution-NonCommercial 4.0 International.
- To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
-
+ - Rockport Metropolitan © 2017 by GamerzXskauzboy99 is licensed under CC BY-NC-ND 4.0.
+   - To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
+  
+   - Suggesting changes / new features can be done from per-project repostory.
  # Metrostroi Europe permission
 MEU Is allowed to post any of these projects from RMDT to MEU as "In-house mods" IN-house content is copyrighted under RMDT copyright and @GamerXsakuboy99 is owner of RMDT.
 - RMDT copyright becomes irrelevant when content has been uploaded to workshop by @GamerXsakuboy99 as it goes under Steam and Garry's mod TOS.
@@ -22,7 +23,7 @@ MEU Is allowed to post any of these projects from RMDT to MEU as "In-house mods"
 ### Creating skins, logo usage / livery
 - Creating skins for RMDT as 3rd party is allowed as long you are using Metrostroi trains as base.
     - All non-Metrostroi skins aren't allowed at all, Ie: Trolleybus, Light-Rail etc.
-- Usage of RMDT logo on 3rd party liveries is allowed with permssion from @GamerzXsakuzboy99, Contact in DIscord and ask.
+    - Usage of RMDT logo on 3rd party liveries is allowed with permssion from @GamerzXsakuzboy99, Contact in DIscord and ask.
 
 ### Copyright share between people who work on RMDT content
 All addons what are created by RMDT are copyrighted under this copyright.
