@@ -1,44 +1,62 @@
 ## Hi there 👋
 
-# RMDT Copyright
- - Rockport Metropolitan © 2017 by GamerzXskauzboy99 is licensed under CC BY-NC-ND 4.0.
-   - To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
-  
-   - Suggesting changes / new features can be done from per-project repostory.
- # Metrostroi Europe permission
-MEU Is allowed to post any of these projects from RMDT to MEU as "In-house mods" IN-house content is copyrighted under RMDT copyright and @GamerXsakuboy99 is owner of RMDT.
-- RMDT copyright becomes irrelevant when content has been uploaded to workshop by @GamerXsakuboy99 as it goes under Steam and Garry's mod TOS.
+# General copyright information
+ Rockport Metropolitan (RPM) © 2017 by GamerzXsakuzboy99 is licensed under CC BY-NC-ND 4.0
+ - ND: Certain edits are allowed as long you contact Copyright holder before starting your work.
+### Metrostroi Europe permission
+- MEU Is allowed to post any of these projects from RMDT to MEU as "In-house mods" IN-house content is copyrighted under RMDT copyright and @GamerXsakuboy99 is owner of RMDT.
+   - RMDT copyright becomes irrelevant when content has been uploaded to workshop by @GamerXsakuboy99 as it goes under Steam and Garry's mod TOS.
+### Steam Wrokshop Rules
+- Our works follow Steam and Gmod's TOS.
+- https://wiki.facepunch.com/gmod/Steam_Workshop_Rules
+### Metrostroi Subway Simulator Copyright.
+- Only allowed usage of all Rockport Metropolitan content is within the Metrostroi Subway Simulator And Garry's Mod.
+- https://github.com/metrostroi-repo/MetrostroiAddon/blob/dev/license.txt
+## RMDT Copyright
+### RMDT Maps & Content
+- Creating "in-house" versions of RMDT maps is forbidden.
+- Editing the maps and calling it with new name is forbidden.
+- Private non-server learning for Hammer usage is allowed.
+- A Language / texture changer packs are allowed as long they server a community. IE: Russian Content for Ruralline by Alexell & Agent Smith
+- Repacking RMDT's props/content to other map(s) is forbidden.
 
-# Non-Gmod/Steam TOS
-### editing maps
-- You aren't allowed edit any of RMDT maps and release them as your own.
-- You are allowed to decompile map and practice making maps /or check how certain thing was made.
-- You aren't allowed to decompile maps to edit map to different looking and under new name.
-- Doing a "Traslastion content" for the maps is allowed, Let @GamerzXsakuzboy99 known before you release your work.
-   - good example is "Russian Content for Ruralline" by Alexell & Agent Smith
-### Creating Rockport metropolitan to other games
-- You aren't allowed to create RMDT to other games without written permission from main developer.
-             § Personal / private maps are allowed.
-- You are allowed make small part & References RPM in other games.
-### Creating skins, logo usage / livery
-- Creating skins for RMDT as 3rd party is allowed as long you are using Metrostroi trains as base.
-    - All non-Metrostroi skins aren't allowed at all, Ie: Trolleybus, Light-Rail etc.
-    - Usage of RMDT logo on 3rd party liveries is allowed with permssion from @GamerzXsakuzboy99, Contact in DIscord and ask.
+### Rockport Metropolitan Skinpack
+- Remixing the skinpack and calling it a new skinpack is forbidden.
+- Making LVP/RPM skins for Non-Metrostroi Content & Non-Russian Subway trains is forbidden.
+     - Even addons what only use Metrostroi as Base are part of this ban.
+- Usage of RPM/LVP Logos without permission is not allowed.
+- Creating a alt-RPM/LVP Skinpacks are allowed but require a Permission from Copyright holder and has to be added as Contributor to the pack when released to workshop.
+      - With permission you get granted to use Logos too.
+
+### Rockport Announcer Pack
+- Reusing sounds from announcerpack is forbidden.
+- Using announcers in non-Metrostroi content is not allowed.
+    - Voice actors can use their files elsewhere, It's their voice.
+
+### Finnish Subway trains M100, M200 for Metrostroi
+> Release date: Unknown right now.
+- Reusing the Sounds forbidden.
+      - Even outside the Metrostroi.
+- Reusing scripts forbidden.
+- Skin making forbidden. *Might change*
 
 ### Copyright share between people who work on RMDT content
 All addons what are created by RMDT are copyrighted under this copyright.
 People who have provided their stuff to content gets a share of that copyright.
-
-
 If you have any questions contact @GamerzXsakuzboy99 via discord, gamerxsakuboy99
 
-<!--
 
-**Here are some ideas to get you started:**
+### Q/A:
+Q: If i create a Skin for RPM but w/o the logo(s), Can i release it to the workshop?
+- Yes you can, Just mention that it's based on RPM.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Q: If i create skins for RPM Skinpack, Do i get anything?
+- Only your username to Contributors list, Nothing else.
+
+Q: How my content is used if i Contribute to the projects?
+- Anything what you provided for the project becomes RMDT's Ownership, But there is certain expections on some of the projects.
+- In the Announcer pack You keep Full ownership right to your voicelines and you grant RMDT a rights to use them as long you revoke that permission.
+- In the Skinpack, You Keep Owenership rights and you grant RMDT a rights to use them as long you revoke that permission.
+- The Models & Textures:  You Keep Owenership rights and you grant RMDT a rights to use them as long you revoke that permission.
+     - RMDT will ask for a price if you revoke the permissions to buy the textures & Models. RMDT Buying price is only from 25 to 50 euros, AS we fell like this is a Fair price to ask for the work what maker has done.
+     - Payment Methods: PayPal
