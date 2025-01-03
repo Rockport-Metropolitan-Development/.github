@@ -60,3 +60,5 @@ Q: How my content is used if i Contribute to the projects?
 - The Models & Textures:  You Keep Owenership rights and you grant RMDT a rights to use them as long you revoke that permission.
      - RMDT will ask for a price if you revoke the permissions to buy the textures & Models. RMDT Buying price is only from 25 to 50 euros, AS we fell like this is a Fair price to ask for the work what maker has done.
      - Payment Methods: PayPal
+
+- Copyright updated: 03.01.2025
