@@ -1,64 +1,101 @@
 ## Hi there 👋
 
-# General copyright information
- Rockport Metropolitan (RPM) © 2017 by GamerzXsakuzboy99 is licensed under CC BY-NC-ND 4.0
- - ND: Certain edits are allowed as long you contact Copyright holder before starting your work.
-### Metrostroi Europe permission
-- MEU Is allowed to post any of these projects from RMDT to MEU as "In-house mods" IN-house content is copyrighted under RMDT copyright and @GamerXsakuboy99 is owner of RMDT.
-   - RMDT copyright becomes irrelevant when content has been uploaded to workshop by @GamerXsakuboy99 as it goes under Steam and Garry's mod TOS.
-### Steam Wrokshop Rules
-- Our works follow Steam and Gmod's TOS.
-- https://wiki.facepunch.com/gmod/Steam_Workshop_Rules
-### Metrostroi Subway Simulator Copyright.
-- Only allowed usage of all Rockport Metropolitan content is within the Metrostroi Subway Simulator And Garry's Mod.
-- https://github.com/metrostroi-repo/MetrostroiAddon/blob/dev/license.txt
-## RMDT Copyright
-### RMDT Maps & Content
-- Creating "in-house" versions of RMDT maps is forbidden.
-- Editing the maps and calling it with new name is forbidden.
-- Private non-server learning for Hammer usage is allowed.
-- A Language / texture changer packs are allowed as long they server a community. IE: Russian Content for Ruralline by Alexell & Agent Smith
-- Repacking RMDT's props/content to other map(s) is forbidden.
+# 📜 Rockport Metropolitan (RPM) – Copyright & Usage Policy
 
-### Rockport Metropolitan Skinpack
-- Remixing the skinpack and calling it a new skinpack is forbidden.
-- Making LVP/RPM skins for Non-Metrostroi Content & Non-Russian Subway trains is forbidden.
-     - Even addons what only use Metrostroi as Base are part of this ban.
-- Usage of RPM/LVP Logos without permission is not allowed.
-- Creating a alt-RPM/LVP Skinpacks are allowed but require a Permission from Copyright holder and has to be added as Contributor to the pack when released to workshop.
-      - With permission you get granted to use Logos too.
+**Rockport Metropolitan (RPM)** © 2017 by **GamerzXsakuzboy99** is licensed under **CC BY-NC-ND 4.0**.  
+- **ND (No Derivatives):** Certain edits may be allowed, but you must contact the copyright holder before starting your work.
 
-### Rockport Announcer Pack
-- Reusing sounds from announcerpack is forbidden.
-- Using announcers in non-Metrostroi content is not allowed.
-    - Voice actors can use their files elsewhere, It's their voice.
+---
 
-### Finnish Subway trains M100, M200 for Metrostroi
-> Release date: Unknown right now.
-- Reusing the Sounds forbidden.
-      - Even outside the Metrostroi.
-- Reusing scripts forbidden.
-- Skin making forbidden. *Might change*
+## 📝 Permissions for Metrostroi Europe (MEU)
 
-### Copyright share between people who work on RMDT content
-All addons what are created by RMDT are copyrighted under this copyright.
-People who have provided their stuff to content gets a share of that copyright.
-If you have any questions contact @GamerzXsakuzboy99 via discord, gamerxsakuboy99
+- MEU is permitted to post any of these projects from **RMDT** to MEU as *“in-house mods.”*
+- All in-house content remains copyrighted under **RMDT**, with **@GamerzXsakuzboy99** as the owner.
+- RMDT copyright no longer applies once content is uploaded to the Steam Workshop by **@GamerzXsakuzboy99**, as it then falls under Steam and Garry’s Mod TOS.
 
+---
 
-### Q/A:
-Q: If i create a Skin for RPM but w/o the logo(s), Can i release it to the workshop?
-- Yes you can, Just mention that it's based on RPM.
+## 🛠 Steam Workshop Rules
 
-Q: If i create skins for RPM Skinpack, Do i get anything?
-- Only your username to Contributors list, Nothing else.
+Our works comply with Steam and Garry’s Mod’s Terms of Service:  
+[Steam Workshop Rules – Garry’s Mod Wiki](https://wiki.facepunch.com/gmod/Steam_Workshop_Rules)
 
-Q: How my content is used if i Contribute to the projects?
-- Anything what you provided for the project becomes RMDT's Ownership, But there is certain expections on some of the projects.
-- In the Announcer pack You keep Full ownership right to your voicelines and you grant RMDT a rights to use them as long you revoke that permission.
-- In the Skinpack, You Keep Owenership rights and you grant RMDT a rights to use them as long you revoke that permission.
-- The Models & Textures:  You Keep Owenership rights and you grant RMDT a rights to use them as long you revoke that permission.
-     - RMDT will ask for a price if you revoke the permissions to buy the textures & Models. RMDT Buying price is only from 25 to 50 euros, AS we fell like this is a Fair price to ask for the work what maker has done.
-     - Payment Methods: PayPal
+---
 
-- Copyright updated: 03.01.2025
+## 🚇 Metrostroi Subway Simulator Content Usage
+
+- All Rockport Metropolitan content is only permitted for use within **Metrostroi Subway Simulator** and **Garry’s Mod**.  
+[Metrostroi License](https://github.com/metrostroi-repo/MetrostroiAddon/blob/dev/license.txt)
+
+---
+
+## 🏷 RMDT Copyright
+
+### 1. Maps & Content
+- Creating *“in-house”* versions of RMDT maps is forbidden.
+- Editing maps and releasing them under a new name is forbidden.
+- Private, non-server learning for Hammer usage is allowed.
+- Language/texture changer packs are allowed if they serve a community  
+  (e.g., Russian content for Ruralline by Alexell & Agent Smith).
+- Repacking RMDT props/content into other maps is forbidden.
+
+### 2. Rockport Metropolitan Skinpack
+- Remixing the skinpack and releasing it as a new pack is forbidden.
+- Creating **LVP/RPM** skins for non-Metrostroi content or non-Russian subway trains is forbidden.  
+  - This ban also applies to addons using Metrostroi as a base.
+- Use of **RPM/LVP logos** without permission is prohibited.
+- Alternative RPM/LVP skinpacks are allowed with permission, but you must:  
+  - Obtain explicit permission from the copyright holder.
+  - Add the copyright holder as a contributor to the Workshop release.
+  - Permission includes logo usage.
+
+### 3. Rockport Announcer Pack
+- Reusing sounds from the announcer pack is forbidden.
+- Using announcer audio in non-Metrostroi content is not allowed.
+- **Voice actors retain full ownership** of their recordings and may use them elsewhere.
+
+### 4. Finnish Subway Trains – M100 & M200 (Metrostroi)
+*(Release date TBD)*
+- Reusing sounds is forbidden (even outside Metrostroi).
+- Reusing scripts is forbidden.
+- Skin making is currently forbidden (subject to change).
+
+---
+
+## 👥 Copyright Sharing Within RMDT
+
+All addons created by **RMDT** are copyrighted under this policy.  
+Contributors who provide content to RMDT retain a share of copyright as follows:
+
+- **Announcer Pack:**  
+  - You keep full ownership of your voice lines.  
+  - You grant RMDT rights to use them until you revoke permission.
+
+- **Skinpack:**  
+  - You keep ownership of your skins.  
+  - You grant RMDT rights to use them until you revoke permission.
+
+- **Models & Textures:**  
+  - You keep ownership of your work.  
+  - You grant RMDT rights to use them until you revoke permission.  
+  - If you revoke permission, RMDT may offer to purchase your models/textures.  
+    - Typical price: €25–€50 (fair compensation for work done).  
+    - Payment method: PayPal.
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q:** *If I create a skin for RPM without logos, can I release it on the Workshop?*  
+**A:** Yes. Just credit it as being based on RPM.
+
+**Q:** *If I create skins for the RPM Skinpack, do I receive compensation?*  
+**A:** No, only your username will be added to the contributors list.
+
+**Q:** *How is my content used if I contribute to RMDT projects?*  
+**A:** Your content becomes part of RMDT under the terms above. Certain exceptions apply (e.g., announcer pack voice lines, skinpack content, models, and textures).
+
+---
+
+📅 **Copyright updated:** 14.09.2025  
+📩 For questions or permissions, contact **@GamerzXsakuzboy99** on Discord: **gamerxsakuboy99**
